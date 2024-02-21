@@ -1,0 +1,7 @@
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.AssemblyReference.cache
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\samch\OneDrive\Desktop\Programacion\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
